@@ -4,7 +4,7 @@
 
 I build production AI and automation systems in Python. At FotoOwl.ai, I work on automated, high-volume video generation workflows and on LangGraph-based AI image generation and editing features.
 
-📍 Pune, India · 📫 [shravanikothale3@gmail.com](mailto:shravanikothale3@gmail.com) · 💼 [LinkedIn](https://www.linkedin.com/in/shravanikothale/)
+💼 [LinkedIn](https://www.linkedin.com/in/shravanikothale/)
 
 ---
 
